@@ -1,4 +1,5 @@
 # hello-world
-training demo
-working to figure out what is happening
-make update
+training demo\
+working to figure out what is happening\
+make updates\
+
